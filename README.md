@@ -30,3 +30,7 @@ jupyter    1.1.1
 arviz      0.21.0  
 geopandas  1.1.0  
 scipy      1.15.2  
+
+
+The spatial analysis tutorial was originally inspired from jorisvandenbossche  
+https://github.com/jorisvandenbossche/geopandas-tutorial/
