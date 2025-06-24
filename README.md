@@ -25,8 +25,8 @@ $ conda install geopandas
 
 Check Packages Versions
 
-pymc       5.23.0
-jupyter    1.1.1 
-arviz      0.21.0
-geopandas  1.1.0
-scipy      1.15.2
+pymc       5.23.0  
+jupyter    1.1.1   
+arviz      0.21.0  
+geopandas  1.1.0  
+scipy      1.15.2  
