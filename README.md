@@ -1,4 +1,4 @@
-# workshop
+# Installation
 
 
 Install anaconda  
